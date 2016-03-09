@@ -8,6 +8,12 @@ namespace Combat_Program
 {
     class Enemy : Actor
     {
-
+        public Enemy(float a, float b, float c, string d)
+        {
+            m_HP = a;
+            m_Attack = b;
+            m_Defence = c;
+            m_Status = d;
+        }
     }
 }

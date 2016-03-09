@@ -1,1 +1,6 @@
 c:\users\austin.morrell\documents\visual studio 2015\Projects\Combat-Program\Combat-Program\bin\Debug\Combat-Program.exe.config
+C:\Users\Austin.Morrell\Documents\Visual Studio 2015\Projects\Combat-Program\Combat-Program\bin\Debug\Combat-Program.exe
+C:\Users\Austin.Morrell\Documents\Visual Studio 2015\Projects\Combat-Program\Combat-Program\bin\Debug\Combat-Program.pdb
+C:\Users\Austin.Morrell\Documents\Visual Studio 2015\Projects\Combat-Program\Combat-Program\obj\Debug\Combat-Program.csprojResolveAssemblyReference.cache
+C:\Users\Austin.Morrell\Documents\Visual Studio 2015\Projects\Combat-Program\Combat-Program\obj\Debug\Combat-Program.exe
+C:\Users\Austin.Morrell\Documents\Visual Studio 2015\Projects\Combat-Program\Combat-Program\obj\Debug\Combat-Program.pdb

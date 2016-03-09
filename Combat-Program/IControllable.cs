@@ -8,6 +8,9 @@ namespace Combat_Program
 {
     interface IControllable
     {
-
+        string Input
+        {
+            get; set;
+        }
     }
 }
